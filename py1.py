@@ -5,5 +5,5 @@ def imc(peso,altura):
     return peso/(altura*altura)
 
 def FtoC(f):
-  c = (5 * (f-32) / 9)
-  return c
+    c = (5 * (f-32) / 9)
+    return c
